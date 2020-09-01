@@ -7,6 +7,7 @@ Il s'appuie sur deux jeux de données disponnibles dans le dossier data.
 ## Sommaire
 
   - [Dataset](#Dataset)
+  - [Set up](#SetUp)
 
 
 ## Dataset
@@ -38,3 +39,22 @@ Il contient les champs suivants :
   - upper_bound_ip_address : borne supérieur de l'intervalle
   - country : pays associé aux adresses IP se situant dans cet intervalle
 
+## Set Up
+
+Ce projet a été codé en python, et utilise différentes librairies :
+
+  - Pandas : gestion des datasets
+  - MatplotLib et Seaborn : librairies liées à la datavisualisation
+  - Sklearn : librairie pour les algorythmes de ML
+
+# Installation des librairies
+
+Si vous voulez runner le code en local vous aurez donc besoin d'installer les librairies suivantes avec pip via l'invite de commande de votre machine  :
+
+    pip install pandas
+    
+    pip install seaborn
+
+    pip install matplotlib
+    
+    pip install sklearn

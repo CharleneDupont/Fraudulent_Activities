@@ -7,7 +7,7 @@ Il s'appuie sur deux jeux de données disponnibles dans le dossier data.
 ## Sommaire
 
   - [Dataset](#Dataset)
-  - [Set up](#SetUp)
+  - [Set up](#Set Up)
 
 
 ## Dataset

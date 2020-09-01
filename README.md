@@ -1,6 +1,6 @@
 # Détection de fraudes en ligne
 
-Ce projet vise à partir d'un jeu de données labelisées d'opérations en ligne frauduleuses, de prédire une future opération de fraude grâce à des algorythme de machine learning supervisés.
+Ce projet vise à partir d'un jeu de données labelisées d'opérations en ligne frauduleuses, de prédire une future opération de fraude grâce à des algorithmes de machine learning supervisés.
 
 Il s'appuie sur deux jeux de données disponnibles dans le dossier data.
 

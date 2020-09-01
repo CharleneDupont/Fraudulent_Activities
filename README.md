@@ -7,7 +7,7 @@ Il s'appuie sur deux jeux de données disponnibles dans le dossier data.
 ## Sommaire
 
   - [Dataset](#Dataset)
-  - [Set up](#Set Up)
+  - [Set up](#SetUp)
 
 
 ## Dataset
@@ -39,7 +39,7 @@ Il contient les champs suivants :
   - upper_bound_ip_address : borne supérieur de l'intervalle
   - country : pays associé aux adresses IP se situant dans cet intervalle
 
-## Set Up
+## SetUp
 
 Ce projet a été codé en python, et utilise différentes librairies :
 
